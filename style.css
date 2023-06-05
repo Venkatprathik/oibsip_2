@@ -5,6 +5,7 @@
 
 .center {
     margin: auto;
+    display:block;
     padding: auto;
     text-align: center;
   }
